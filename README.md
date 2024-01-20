@@ -1,4 +1,4 @@
-# Portfolio, Fredy Camas[Mobile Developer]
+# Portfolio, Fredy Camas
 ---
 <div align="center">		
  <a href="https://"> 
