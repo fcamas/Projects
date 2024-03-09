@@ -3,12 +3,11 @@
 <div align="center">		
  <a href="https://github.com/fcamas/Android/blob/main/README.md" width="400""> 
  <img src="https://github.com/fcamas/Projects/assets/76220782/9d2f600e-f6e1-4ab6-8c9f-62da61bf66eb" width="300" height = "100""> 
- <img src="https://github.com/fcamas/Android/blob/main/README.md" width="400" "> 
+ 
 </div>
 
 # 🔥👨🏻‍💻IOS Projects 
 ---
-![Demo 2]()
 
 |Name | Tools |  Preview | 
 |---|---|---|
