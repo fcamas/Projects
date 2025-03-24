@@ -17,7 +17,7 @@
 <img width="276" alt="1355@3x (2)" src="https://github.com/user-attachments/assets/e147e7d1-e279-48f4-90e8-0766a5d5937d">
 
 
-## ![Pokkets]([https://github.com/IOS-Group15/Personal-Budget-Management?tab=readme-ov-file](https://github.com/IOS-Group15/Personal-Budget-Management)) - SwiftUI
+## ![Pokkets]([https://github.com/IOS-Group15/Personal-Budget-Management](https://github.com/IOS-Group15/Personal-Budget-Management)) - SwiftUI
 ![file cover - 1](https://github.com/user-attachments/assets/aca89f33-89fe-4e34-8f16-b60214468417)
 
 
