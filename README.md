@@ -20,7 +20,14 @@
 ## ![Pokkets](https://github.com/IOS-Group15/Personal-Budget-Management) - SwiftUI
 ![file cover - 1](https://github.com/user-attachments/assets/aca89f33-89fe-4e34-8f16-b60214468417)
 
+## ![ScavengerHunt](https://github.com/fcamas/ScavengerHunt) - UIKit
+![file cover - 1](https://github.com/user-attachments/assets/093fd583-b445-48af-a379-78b320b25df8)
 
+
+
+## ![BMI](https://github.com/fcamas/BMI) - Kotlin
+
+!<img width="231" alt="Screenshot 2025-03-23 at 11 24 20 PM" src="https://github.com/user-attachments/assets/da0ab7f4-d3df-4898-b305-0ad2af2d5f16" />
 
 
 
