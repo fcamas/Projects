@@ -1,7 +1,7 @@
 # Portfolio, Fredy Camas
 
 
-## ![ESRI SAMPLES]([https://github.com/Esri/arcgis-maps-sdk-swift-samples/tree/main/Shared/Samples/Query%20feature%20count%20and%20extent](https://github.com/Esri/arcgis-maps-sdk-swift-samples/blob/main/Shared/Samples/Query%20feature%20count%20and%20extent/QueryFeatureCountAndExtentView.swift)) - SwiftUI, iOS SDK ESRI
+## ![ESRI SAMPLES](https://github.com/Esri/arcgis-maps-sdk-swift-samples/blob/main/Shared/Samples/Query%20feature%20count%20and%20extent/QueryFeatureCountAndExtentView.swift) - SwiftUI, iOS SDK ESRI
  <!--  <img width="276" alt="1349@3x" src="https://github.com/user-attachments/assets/4ffb0b1a-3d63-477a-b6a7-2ce54e39df1a">
 <img width="276" alt="1350@3x" src="https://github.com/user-attachments/assets/101a0249-f060-4b87-bb13-a81213b091cf">
 <img width="276" alt="1354@3x" src="https://github.com/user-attachments/assets/d668fa1c-fa69-4863-a5a7-093ab2d522e6">
